@@ -20,7 +20,7 @@ site-keywords: Music, Information Retrival, MIR, Deep Learning, Signal Processin
 favicon-url: 'data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDc2JCYxJx8fLT0tMTU3Ojo6Iys/RD84OjQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Ny03Nzc3Nzc3Nzc3Nzc3Nzc0MzcrNzc3Nzc3Nzc1LzU3Nys3Nzc1NzU3Nys3N//AABEIACAAHwMBIgACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAEBQYDAv/EAC8QAAIBAwEEBgsAAAAAAAAAAAECAwAEERIFITHREyJBUZHSQmFxcqGis8HC4eL/xAAWAQEBAQAAAAAAAAAAAAAAAAADBQT/xAAcEQABBQEBAQAAAAAAAAAAAAABAAIDBBESMSH/2gAMAwEAAhEDEQA/AEaKXYKoyTT3ZNqwEbadxKk596I863tNnR2i6nXU4Y4bvHXI+AXxoyKMjA07lyAB24P81TmsBx+eKXBWLRp9SraaYtIkIwUhXh6kNI6qrq06QPEAQSmAcZ9Fh9qn76ze3vZ4I1Z1jO4gcV7KWtID8Q2oyMKqxdrJGHAYjHAnOCM5HyGu+mQ565yD+uXjU3sraIhMcMpxGDz8xptaOkxQI2Sd/wBPzVjkr8nFuis9t1GS3CRRNMNTKE17txIwT+JoO429BaXEsBjlYxtpYqR1scuFY3coFrk8Gt8ge1G51OO7SOzucsxyT3mlgrNdvSGxae3OV//Z' 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /ccrma-mir/assets/images/home.JPG
+heroimage: https://github.com/ccrma-mir/ccrma-mir.github.io/blob/main/assets/images/home.JPG?raw=true?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
