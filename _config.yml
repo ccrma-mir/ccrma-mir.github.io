@@ -11,7 +11,7 @@ baseurl: ''
 # Title of the Site
 title: CCRMA MIR Workshops
 # Description of the Site
-description: Course materials for the Stanford CCRMA series covering the foundamentals and latest developments in Music Information Retrieval
+description: Course materials for the Stanford CCRMA series
 # URL of Image of the Site
 site-image: /ccrma-mir/assets/images/meta.jpg
 # Keywords of the Site
