@@ -4,9 +4,9 @@ remote_theme: thedevslot/WhatATheme
 markdown: kramdown
 
 # URL of the Site
-url: 'https://ccrma-mir.github.io/'
+url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 'https://ccrma-mir.github.io/'
+baseurl: ''
 
 # Title of the Site
 title: CCRMA MIR Workshops
