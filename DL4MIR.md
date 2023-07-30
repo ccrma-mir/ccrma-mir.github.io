@@ -1,5 +1,5 @@
 ---
-title: Deep Learning for MIR I
+title: Deep Learning for MIR
 layout: page
 ---
 
