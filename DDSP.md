@@ -1,0 +1,3 @@
+# Differentiable Digital Signal Processing with PyTorch
+
+This workshop ...
