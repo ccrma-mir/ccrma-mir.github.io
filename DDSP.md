@@ -3,7 +3,7 @@ title: DDSP
 layout: page
 ---
 
-<img src="assets/images/piano.png" alt="drawing" width="1000"/>
+<img src="assets/images/piano.png" alt="drawing" width="1000" class="center"/>
 
 # This is heading 1
 ## This is heading 2
