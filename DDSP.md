@@ -31,9 +31,15 @@ layout: page
 4. Item 4
 
 ### Revelant Literature
-* [Mathematics of the discrete fourier transform (DFT) with audio applications](https://ccrma.stanford.edu/~jos/st/)
-* [Spectral audio signal processing](https://ccrma.stanford.edu/~jos/sasp/)
-* [Digital signals theory](https://brianmcfee.net/dstbook-site/content/intro.html)
-* [DDSP: differentiable digital signal processing](https://arxiv.org/pdf/2001.04643)
-* [F0 analysis of Ghanaian pop singing reveals progressive alignment with equal temperament over the past three decades: a case study](https://ccrma.stanford.edu/~iran/papers/Roman_et_al_SMC_2023.pdf)
-* [EGFxSet: electric guitar tones processed through real effects of distortion, modulation, delay and reverb](https://ccrma.stanford.edu/~iran/papers/Pedroza_et_al_ISMIR_2022.pdf)
+
+[Mathematics of the discrete fourier transform (DFT) with audio applications](https://ccrma.stanford.edu/~jos/st/)
+
+[Spectral audio signal processing](https://ccrma.stanford.edu/~jos/sasp/)
+
+[Digital signals theory](https://brianmcfee.net/dstbook-site/content/intro.html)
+
+[DDSP: differentiable digital signal processing](https://arxiv.org/pdf/2001.04643)
+
+[F0 analysis of Ghanaian pop singing reveals progressive alignment with equal temperament over the past three decades: a case study](https://ccrma.stanford.edu/~iran/papers/Roman_et_al_SMC_2023.pdf)
+
+[EGFxSet: electric guitar tones processed through real effects of distortion, modulation, delay and reverb](https://ccrma.stanford.edu/~iran/papers/Pedroza_et_al_ISMIR_2022.pdf)
