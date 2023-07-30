@@ -33,21 +33,98 @@ layout: page
 
 # 2018
 
-Beici Liang
+<div class="container">
+    <div class="columns">
+        <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+            <figure class="image">
+                <img class="is-rounded" src="assets/photos/beici.png" alt="{{site.author-name}}">
+            </figure>
+        </div>
+        <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+            <p>Beici Liang</p>
+        </div>
+    </div>
+</div>
 
-Jose Giraldo
+<div class="container">
+    <div class="columns">
+        <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+            <figure class="image">
+                <img class="is-rounded" src="assets/photos/jose.png" alt="{{site.author-name}}">
+            </figure>
+        </div>
+        <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+            <p>Jose Giraldo</p>
+        </div>
+    </div>
+</div>
 
-Alice Baird
+<div class="container">
+    <div class="columns">
+        <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+            <figure class="image">
+                <img class="is-rounded" src="assets/photos/alice.png" alt="{{site.author-name}}">
+            </figure>
+        </div>
+        <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+            <p>Alice Baird</p>
+        </div>
+    </div>
+</div>
 
-Varsha Sankar
+<div class="container">
+    <div class="columns">
+        <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+            <figure class="image">
+                <img class="is-rounded" src="assets/photos/varsha.png" alt="{{site.author-name}}">
+            </figure>
+        </div>
+        <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+            <p>Varsha Sankar</p>
+        </div>
+    </div>
+</div>
 
 # 2017
 
-Tali Singer
+<div class="container">
+    <div class="columns">
+        <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+            <figure class="image">
+                <img class="is-rounded" src="assets/photos/tali.png" alt="{{site.author-name}}">
+            </figure>
+        </div>
+        <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+            <p>Tali Singer</p>
+        </div>
+    </div>
+</div>
 
-Jeff Trevino
+<div class="container">
+    <div class="columns">
+        <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+            <figure class="image">
+                <img class="is-rounded" src="assets/photos/jeff.png" alt="{{site.author-name}}">
+            </figure>
+        </div>
+        <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+            <p>Jeff Trevino</p>
+        </div>
+    </div>
+</div>
 
-Jyoti Narang
+<div class="container">
+    <div class="columns">
+        <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+            <figure class="image">
+                <img class="is-rounded" src="assets/photos/jyoti.jpeg" alt="{{site.author-name}}">
+            </figure>
+        </div>
+        <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+            <p>Jyoti Narang</p>
+        </div>
+    </div>
+</div>
 
 <div class="container">
     <div class="columns">
@@ -66,7 +143,7 @@ Jyoti Narang
     <div class="columns">
         <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
             <figure class="image">
-                <img class="is-rounded" src="assets/photos/adi.heic" alt="{{site.author-name}}">
+                <img class="is-rounded" src="assets/photos/adi.png" alt="{{site.author-name}}">
             </figure>
         </div>
         <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
@@ -75,3 +152,4 @@ Jyoti Narang
     </div>
 </div>
 
+Dear Scholars, please get in touch with Iran (iran <at> ccrma.stanford.edu) if you would like us to add a short bio you to your profile.
