@@ -31,6 +31,12 @@ layout: page
     </div>
 </div>
 
+# 2018
+
+Beici Liang
+
+Jose Giraldo
+
 # 2017
 
 Tali Singer
