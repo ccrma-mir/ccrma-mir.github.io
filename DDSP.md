@@ -1,13 +1,9 @@
 ---
 title: DDSP
-layout: post
-post-image: "assets/images/classroom.png"
-description: Differentiable digital signal processing with PyTorch
-tags:
-- DDSP
-- PyTorch
-- Signal Processing
+layout: page
 ---
+
+<img src="assets/images/piano.png" alt="drawing" width="1000"/>
 
 # This is heading 1
 ## This is heading 2
