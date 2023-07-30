@@ -1,5 +1,5 @@
 ---
-title: Deep Learning for MIR
+title: DL4MIR
 layout: page
 ---
 
