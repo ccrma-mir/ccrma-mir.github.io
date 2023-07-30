@@ -1,7 +1,7 @@
 remote_theme: thedevslot/WhatATheme
 
 # WhatATheme
-markdown: kramdown
+#markdown: kramdown
 
 # URL of the Site
 url: ''
