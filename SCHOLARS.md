@@ -49,6 +49,29 @@ Jeff Trevino
 
 Jyoti Narang
 
-Xueqi Zhang
+<div class="container">
+    <div class="columns">
+        <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+            <figure class="image">
+                <img class="is-rounded" src="assets/photos/27895655.jpeg" alt="{{site.author-name}}">
+            </figure>
+        </div>
+        <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+            <p>Xueqi Zhang</p>
+        </div>
+    </div>
+</div>
 
-Adi Etsion
+<div class="container">
+    <div class="columns">
+        <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+            <figure class="image">
+                <img class="is-rounded" src="assets/photos/adi.heic" alt="{{site.author-name}}">
+            </figure>
+        </div>
+        <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+            <p>Adi Etsion</p>
+        </div>
+    </div>
+</div>
+
