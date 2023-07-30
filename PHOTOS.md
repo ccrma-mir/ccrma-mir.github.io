@@ -5,8 +5,6 @@ layout: page
 
 # 2022
 
-<iframe src="assets/photos/DL4MIR_2022.mov" width="1000"frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 <img src="assets/photos/DL4MIR_2022" alt="drawing" width="1000"/>
 
 Instructors: Iran R. Roman & Camille Noufi
