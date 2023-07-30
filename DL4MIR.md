@@ -3,6 +3,8 @@ title: Deep Learning for MIR
 layout: page
 ---
 
+<img src="assets/images/piano.png" alt="drawing" width="1000"/>
+
 # This is heading 1
 ## This is heading 2
 ### This is heading 3
