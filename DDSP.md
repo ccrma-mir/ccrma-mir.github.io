@@ -38,6 +38,8 @@ layout: page
 
 [Digital signals theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 
+[Fundamentals of music processing](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP)
+
 [DDSP: differentiable digital signal processing](https://arxiv.org/pdf/2001.04643)
 
 [F0 analysis of Ghanaian pop singing reveals progressive alignment with equal temperament over the past three decades: a case study](https://ccrma.stanford.edu/~iran/papers/Roman_et_al_SMC_2023.pdf)
