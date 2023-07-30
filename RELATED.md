@@ -10,3 +10,6 @@ layout: page
 
 
 [DL4MIR @ UNAM](https://dl4genaudio.github.io/)
+
+
+[MIR.com (Steve Tjoa et al.)](https://musicinformationretrieval.com/)
