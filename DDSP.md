@@ -1,5 +1,5 @@
 ---
-title: Differentiable Digital Signal Processing with PyTorch
+title: DDSP
 layout: page
 ---
 
