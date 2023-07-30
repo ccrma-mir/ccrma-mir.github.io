@@ -37,6 +37,8 @@ Beici Liang
 
 Jose Giraldo
 
+Alice Baird
+
 # 2017
 
 Tali Singer
