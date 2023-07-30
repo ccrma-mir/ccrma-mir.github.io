@@ -5,4 +5,4 @@ layout: page
 
 # 2022
 
-![image info](assets/images/DL4MIR_2022.png)
+<img src="assets/photos/DL4MIR_2022.png" alt="drawing" width="1000"/>
