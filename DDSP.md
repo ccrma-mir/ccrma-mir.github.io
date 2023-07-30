@@ -3,6 +3,8 @@ title: Differentiable Digital Signal Processing with PyTorch
 layout: page
 ---
 
+<img src="assets/images/classroom.png" alt="drawing" width="1000"/>
+
 # This is heading 1
 ## This is heading 2
 ### This is heading 3
