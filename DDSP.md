@@ -8,17 +8,18 @@ layout: page
 ## Differential Digital Signal Processing
 
 ### Day 1 (Monday): The Discrete Fourier Transform
+
 Lecture Topics:
-Digital audio signal
-Discrete Fourier Transform
-Inverse Discrete Fourier Transform
-Short Time Fourier Transform
+* Digital audio signal
+* Discrete Fourier Transform
+* Inverse Discrete Fourier Transform
+* Short Time Fourier Transform
 
 Lecture Notes: 
-(Available Soon)
+* (Available Soon)
 
 Guest Speaker: 
-Julius O. Smith - Spectral Audio Signal Processing
+* Julius O. Smith - Spectral Audio Signal Processing
 
 ### Revelant Literature
 
