@@ -49,4 +49,6 @@ layout: page
 * Guest speaker talk by [Giovana Morais](https://giovana-morais.github.io):
 
   - [Tempo vs. Pitch: Understanding Self-supervised Tempo Estimation](https://ieeexplore.ieee.org/iel7/10094559/10094560/10095292.pdf)
+ 
+    
 * Workshop participant final presentations
