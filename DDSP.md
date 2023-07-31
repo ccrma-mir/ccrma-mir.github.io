@@ -5,30 +5,20 @@ layout: page
 
 <img src="assets/images/piano.png" alt="drawing" width="1000" class="center"/>
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+## Differential Digital Signal Processing
 
-[This is a link](#)
+### Day 1 (Monday): The Discrete Fourier Transform
+Lecture Topics:
+Digital audio signal
+Discrete Fourier Transform
+Inverse Discrete Fourier Transform
+Short Time Fourier Transform
 
-> This is a blockquote
+Lecture Notes: 
+(Available Soon)
 
-`This is code`
-
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+Guest Speaker: 
+Julius O. Smith - Spectral Audio Signal Processing
 
 ### Revelant Literature
 
