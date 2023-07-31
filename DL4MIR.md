@@ -25,6 +25,7 @@ layout: page
 ## Day 6 (Monday)
 * [RAVE](https://arxiv.org/pdf/2111.05011.pdf)
 * Guest speaker talk by [Daniel Faronbi](https://danielfaronbi.com):
+
   - [Exploring Approaches to Multi-Task Automatic Synthesizer Programming](https://ccrma.stanford.edu/~iran/papers/Faronbi_et_al_ICASSP_2023.pdf)
 
 ## Day 7 (Tuesday)
@@ -37,6 +38,7 @@ layout: page
 * [How to Listen? Rethinking Visual Sound Localization](https://arxiv.org/pdf/2204.05156.pdf)
 * [Flowgrad](https://ieeexplore.ieee.org/iel7/10094559/10094560/10094965.pdf)
 * Guest speaker talk by [Adrian S. Roman](https://adriansroman.github.io/adriansroman/):
+
   - []()
 
 ## Day 9 (Thursday)
@@ -45,5 +47,6 @@ layout: page
 
 ## Day 10 (Friday)
 * Guest speaker talk by [Giovana Morais](https://giovana-morais.github.io):
+
   - [Tempo vs. Pitch: Understanding Self-supervised Tempo Estimation](https://ieeexplore.ieee.org/iel7/10094559/10094560/10095292.pdf)
 * Workshop participant final presentations
