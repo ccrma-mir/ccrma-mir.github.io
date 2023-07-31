@@ -3,29 +3,29 @@ title: DL4MIR
 layout: page
 ---
 
-<img src="assets/images/piano.png" alt="drawing" width="1000"/>
+<img src="assets/images/nature.png" alt="drawing" width="1000"/>
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+# Deep Learning for Music Information Retrieval
 
-[This is a link](#)
+## Day 6 (Monday)
+* [RAVE](https://arxiv.org/pdf/2111.05011.pdf)
+* Guest speaker talk by [Daniel Faronbi](https://danielfaronbi.com): [Exploring Approaches to Multi-Task Automatic Synthesizer Programming](https://ccrma.stanford.edu/~iran/papers/Faronbi_et_al_ICASSP_2023.pdf)
 
-> This is a blockquote
+## Day 7 (Tuesday)
+* [Contrastive Audio-Language Learning for Music](https://arxiv.org/pdf/2208.12208.pdf)
+* [Wav2CLIP](https://arxiv.org/pdf/2110.11499.pdf)
+* [CLIPcap](https://arxiv.org/pdf/2111.09734.pdf)
 
-`This is code`
+## Day 8 (Wednesday)
+* [Sound of Pixels](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hang_Zhao_The_Sound_of_ECCV_2018_paper.pdf)
+* [How to Listen? Rethinking Visual Sound Localization](https://arxiv.org/pdf/2204.05156.pdf)
+* [Flowgrad](https://ieeexplore.ieee.org/iel7/10094559/10094560/10094965.pdf)
+* Guest speaker talk by [Adrian S. Roman](https://adriansroman.github.io/adriansroman/):
 
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
+## Day 9 (Thursday)
+*
+*
 
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+## Day 10 (Friday)
+* Guest speaker talk by [Giovana Morais](https://giovana-morais.github.io): [Tempo vs. Pitch: Understanding Self-supervised Tempo Estimation](https://ieeexplore.ieee.org/iel7/10094559/10094560/10095292.pdf)
+* Workshop participant final presentations
