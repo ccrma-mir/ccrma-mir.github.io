@@ -50,5 +50,5 @@ layout: page
 
   - [Tempo vs. Pitch: Understanding Self-supervised Tempo Estimation](https://ieeexplore.ieee.org/iel7/10094559/10094560/10095292.pdf)
  
-    
+<br/><br/>
 * Workshop participant final presentations
