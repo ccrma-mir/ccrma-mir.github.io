@@ -14,6 +14,10 @@ layout: page
 
 
 ## Day 3 (Wednesday)
+* Guest speaker talk by [Valerio Velardo](https://valeriovelardo.com/):
+
+  - [The Sound of AI accelerator](https://thesoundofai.com/accelerator.html)
+
 
 
 ## Day 4 (Thursday)
