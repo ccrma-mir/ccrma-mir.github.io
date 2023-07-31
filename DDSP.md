@@ -5,26 +5,22 @@ layout: page
 
 <img src="assets/images/piano.png" alt="drawing" width="1000" class="center"/>
 
-## Differential Digital Signal Processing
+# Differential Digital Signal Processing
 
-### Day 1 (Monday): The Discrete Fourier Transform
-
+## Day 1 (Monday): The Discrete Fourier Transform
 Lecture Topics:
-
 * Digital audio signal
 * Discrete Fourier Transform
 * Inverse Discrete Fourier Transform
 * Short Time Fourier Transform
 
 Lecture Notes: 
-
 * (Available Soon)
 
 Guest Speaker: 
-
 * Julius O. Smith - Spectral Audio Signal Processing
 
-### Revelant Literature
+## Revelant Literature
 
 [Mathematics of the discrete fourier transform (DFT) with audio applications](https://ccrma.stanford.edu/~jos/st/)
 
