@@ -12,11 +12,9 @@ layout: page
 * Digital audio signal  
 * Discrete Fourier Transform  
 * Inverse Discrete Fourier Transform  
-* Short Time Fourier Transform
-
+* Short Time Fourier Transform  
 ### Lecture Notes:  
-* (Available Soon)
-
+* (Available Soon)  
 ### Guest Speaker:  
 * Julius O. Smith - Spectral Audio Signal Processing
 
@@ -25,11 +23,9 @@ layout: page
 * Convolution
 * Finite Impulse Response Filters
 * Infinite Impulse Response Filters
-* Z Transform
-
+* Z Transform  
 ### Lecture Notes:  
-* (Available Soon)
-
+* (Available Soon)  
 ### Lab Session:  
 * Differential Digital Signal Processing
 
