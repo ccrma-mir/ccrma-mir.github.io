@@ -7,8 +7,7 @@ layout: page
 
 # Differential Digital Signal Processing
 
-## Day 1 (Monday): The Discrete Fourier Transform
-
+## Day 1 (Monday): The Discrete Fourier Transform  
 ### Lecture Topics:  
 * Digital audio signal  
 * Discrete Fourier Transform  
@@ -20,6 +19,19 @@ layout: page
 
 ### Guest Speaker:  
 * Julius O. Smith - Spectral Audio Signal Processing
+
+## Day 2 (Tuesday): Digital Filter Theory  
+### Lecture Topics:  
+* Convolution
+* Finite Impulse Response Filters
+* Infinite Impulse Response Filters
+* Z Transform
+
+### Lecture Notes:  
+* (Available Soon)
+
+### Lab Session:  
+* Differential Digital Signal Processing
 
 ## Revelant Literature
 
