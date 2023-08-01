@@ -5,7 +5,7 @@ layout: page
 
 <img src="assets/images/piano.png" alt="drawing" width="1000" class="center"/>
 
-# Differential Digital Signal Processing
+# Differentiable Digital Signal Processing
 
 ## Day 1 (Monday): The Discrete Fourier Transform  
 
@@ -33,7 +33,7 @@ layout: page
 * (Available Soon)  
 
 ### Lab Session:  
-* Differential Digital Signal Processing  
+* Differentiable Digital Signal Processing  
 
 ## Revelant Literature
 
