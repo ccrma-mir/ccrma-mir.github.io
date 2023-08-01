@@ -9,6 +9,9 @@ layout: page
 
 ## Day 1 (Monday)
 * Reading: [Automatic Identification of Instrument Classes in Polyphonic and Poly-instrument Audio](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.9461&rep=rep1&type=pdf)
+* Guest speaker talk by [Elena Georgieva](elenatheodora.com)
+
+  - [TOTAL VARIATION IN VOCALS OVER TIME](https://ccrma.stanford.edu/~egeorgie/projects/totalvariation.html)
 
 ## Day 2 (Tuesday)
 
