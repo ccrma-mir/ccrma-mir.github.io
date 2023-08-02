@@ -33,7 +33,20 @@ layout: page
 * (Available Soon)  
 
 ### Lab Session:  
-* Differentiable Digital Signal Processing  
+* Differentiable Digital Signal Processing
+
+## Day 3 (Wednesday): Tempo and Beat Tracking  
+
+### Lecture Topics:  
+* Onset Detection
+* Tempo Analysis
+* Beat Tracking  
+
+### Lecture Notes:  
+* (Available Soon)  
+
+### Lab Session:  
+* Gradient Frequency Neural Network  
 
 ## Revelant Literature
 
