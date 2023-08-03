@@ -14,13 +14,13 @@ layout: page
   - [TOTAL VARIATION IN VOCALS OVER TIME](https://ccrma.stanford.edu/~egeorgie/projects/totalvariation.html)
 
 ## Day 2 (Tuesday)
+* Guest speaker talk by [Néstor Nápoles López](https://napulen.github.io/)
 
 
 ## Day 3 (Wednesday)
 * Guest speaker talk by [Valerio Velardo](https://valeriovelardo.com/):
 
   - [The Sound of AI accelerator](https://thesoundofai.com/accelerator.html)
-
 
 
 ## Day 4 (Thursday)
