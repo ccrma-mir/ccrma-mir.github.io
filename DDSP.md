@@ -46,7 +46,23 @@ layout: page
 * (Available Soon)  
 
 ### Lab Session:  
-* Gradient Frequency Neural Network  
+* Gradient Frequency Neural Network
+
+## Day 4 (Thursday): Pitch and Chord Detection  
+
+### Lecture Topics:  
+* Chroma Feature
+* Chord Recognition
+* Hidden Markov Models  
+
+### Lecture Notes:  
+* (Available Soon)  
+
+### Reading:  
+* F0 Analysis of Ghanaian Pop Singing Reveals Progressive Alignment with Equal Temperament Over the Past Three Decades: A Case Study  
+
+### Lab Session:  
+* Convolutional Representation for Pitch Estimation  
 
 ## Revelant Literature
 
