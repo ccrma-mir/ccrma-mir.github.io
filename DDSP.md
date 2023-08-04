@@ -62,7 +62,14 @@ layout: page
 * F0 Analysis of Ghanaian Pop Singing Reveals Progressive Alignment with Equal Temperament Over the Past Three Decades: A Case Study  
 
 ### Lab Session:  
-* Convolutional Representation for Pitch Estimation  
+* Convolutional Representation for Pitch Estimation
+
+## Day 5 (Friday): Audio Data Processing
+### Guest Speaker:
+* Hegel Pedroza, Gerardo Meza - EGFxSet: Electric Guitar Tones Processed Through Real Effects of Distortion, Modulation, Delay and Reverb  
+
+### Lab Session:  
+* Contrastive Language-Image Pre-training  
 
 ## Revelant Literature
 
