@@ -19,7 +19,10 @@ layout: page
 * (Available Soon)  
 
 ### Guest Speaker:  
-* Julius O. Smith - Spectral Audio Signal Processing  
+* Julius O. Smith - Spectral Audio Signal Processing
+
+### Lab Session:
+* Data prep for [DESREO](https://github.com/iranroman/DESREO)
 
 ## Day 2 (Tuesday): Digital Filter Theory  
 
