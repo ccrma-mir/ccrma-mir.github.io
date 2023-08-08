@@ -16,15 +16,17 @@ layout: page
 * Short Time Fourier Transform  
 
 ### Lecture Notes:  
-* (Available Soon)  
+* [DFT](https://githubcolab.com/ccrma-mir/course-materials/blob/main/CCRMA_DDSP_Workshop_Notes-Day_1.ipynb) 
 
 ### Guest Speaker:  
 * Julius O. Smith - Spectral Audio Signal Processing
 
+## Day 2 (Tuesday): Digital Filter Theory  
+
+### CCRMA Tour
+
 ### Lab Session:
 * Data prep for [DESREO](https://github.com/iranroman/DESREO)
-
-## Day 2 (Tuesday): Digital Filter Theory  
 
 ### Lecture Topics:  
 * Convolution
