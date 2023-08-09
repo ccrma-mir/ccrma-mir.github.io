@@ -44,7 +44,7 @@ layout: page
 ### Lab Session:
 * [Data loader for DESREO](https://github.com/iranroman/DESREO/blob/main/desreo/datasets/snoop_dogg.py)
 
-## Day 4 (Thursday): Beat and Onset tracking
+## Day 4 (Thursday): Onset, Beat, and Pitch Tracking
 
 ### Lecture Topics:  
 * Onset Detection
@@ -55,7 +55,7 @@ layout: page
 * (Available Soon)  
 
 ### Lab Session:  
-* Gradient Frequency Neural Network
+* Convolutional Representation for Pitch Estimation
 
 ### Reading:  
 * F0 Analysis of Ghanaian Pop Singing Reveals Progressive Alignment with Equal Temperament Over the Past Three Decades: A Case Study  
@@ -69,9 +69,6 @@ layout: page
 
 ### Lecture Notes:  
 * (Available Soon)  
-
-### Lab Session:  
-* Convolutional Representation for Pitch Estimation
 
 ### Guest Speaker:
 * Hegel Pedroza, Gerardo Meza - EGFxSet: Electric Guitar Tones Processed Through Real Effects of Distortion, Modulation, Delay and Reverb  
