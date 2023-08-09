@@ -32,14 +32,19 @@ layout: page
 * Convolution
 * Finite Impulse Response Filters
 
-## Day 3 (Wednesday): Tempo and Beat Tracking  
+## Day 3 (Wednesday): Torch Dataloaders and IIR Filters  
 
 ### Lecture Topics:
 * Infinite Impulse Response Filters
 * Z Transform  
 
 ### Lecture Notes:  
-* (Available Soon)  
+* [Digital filters](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/CCRMA_DDSP_Workshop_Notes_Day_3.ipynb) 
+
+### Lab Session:
+* [Data loader for DESREO](https://github.com/iranroman/DESREO/blob/main/desreo/datasets/snoop_dogg.py)
+
+## Day 4 (Thursday): Beat and Onset tracking
 
 ### Lecture Topics:  
 * Onset Detection
@@ -52,7 +57,10 @@ layout: page
 ### Lab Session:  
 * Gradient Frequency Neural Network
 
-## Day 4 (Thursday): Pitch and Chord Detection  
+### Reading:  
+* F0 Analysis of Ghanaian Pop Singing Reveals Progressive Alignment with Equal Temperament Over the Past Three Decades: A Case Study  
+
+## Day 5 (Friday): Chord and Music Representations
 
 ### Lecture Topics:  
 * Chroma Feature
@@ -62,18 +70,11 @@ layout: page
 ### Lecture Notes:  
 * (Available Soon)  
 
-### Reading:  
-* F0 Analysis of Ghanaian Pop Singing Reveals Progressive Alignment with Equal Temperament Over the Past Three Decades: A Case Study  
-
 ### Lab Session:  
 * Convolutional Representation for Pitch Estimation
 
-## Day 5 (Friday): Audio Data Processing
 ### Guest Speaker:
 * Hegel Pedroza, Gerardo Meza - EGFxSet: Electric Guitar Tones Processed Through Real Effects of Distortion, Modulation, Delay and Reverb  
-
-### Lab Session:  
-* Contrastive Language-Image Pre-training  
 
 ## Revelant Literature
 
