@@ -52,13 +52,11 @@ layout: page
 * Beat Tracking  
 
 ### Lecture Notes:  
-* (Available Soon)  
-
-### Lab Session:  
-* Convolutional Representation for Pitch Estimation
+* [Onset detection](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/CCRMA_DDSP_Workshop_Notes_Day_4.ipynb)
 
 ### Reading:  
 * F0 Analysis of Ghanaian Pop Singing Reveals Progressive Alignment with Equal Temperament Over the Past Three Decades: A Case Study  
+* Convolutional Representation for Pitch Estimation
 
 ## Day 5 (Friday): Chord and Music Representations
 
