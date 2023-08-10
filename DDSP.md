@@ -52,7 +52,7 @@ layout: page
 * Beat Tracking  
 
 ### Lecture Notes:  
-* [Onset detection](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/CCRMA_DDSP_Workshop_Notes_Day_4.ipynb)
+* [Onset, tempo, and beat](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/CCRMA_DDSP_Workshop_Notes_Day_4.ipynb)
 
 ### Reading:  
 * F0 Analysis of Ghanaian Pop Singing Reveals Progressive Alignment with Equal Temperament Over the Past Three Decades: A Case Study  
