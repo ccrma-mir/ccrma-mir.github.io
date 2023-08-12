@@ -16,7 +16,7 @@ layout: page
 * Short Time Fourier Transform  
 
 ### Lecture Notes:  
-* [Signal sampling & DFT](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/CCRMA_DDSP_Workshop_Notes-Day_1.ipynb) 
+* [Signal sampling & DFT](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/CCRMA_DDSP_Workshop_Notes_Day_1.ipynb) 
 
 ### Guest Speaker:  
 * Julius O. Smith - Spectral Audio Signal Processing
