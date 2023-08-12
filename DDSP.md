@@ -66,7 +66,7 @@ layout: page
 * Hidden Markov Models  
 
 ### Lecture Notes:  
-* (Available Soon)  
+* [Chroma and HMM](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/CCRMA_DDSP_Workshop_Notes_Day_5.ipynb)
 
 ### Guest Speaker:
 * Hegel Pedroza, Gerardo Meza - EGFxSet: Electric Guitar Tones Processed Through Real Effects of Distortion, Modulation, Delay and Reverb  
