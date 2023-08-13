@@ -13,7 +13,7 @@ layout: page
   * [Linear algebra](https://cs229.stanford.edu/section/cs229-linalg.pdf) (at least sections 1, 2, and most of 3)
   * [Chain rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review)
 * Dimensionality reduction with PCA
-* [MIRdata & PCA](https://github.com/ccrma-mir/course-materials/blob/main/EGFxSet_PCA.ipynb)
+* [MIRdata & PCA](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_PCA.ipynb)
 * Reading: [Automatic Identification of Instrument Classes in Polyphonic and Poly-instrument Audio](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.9461&rep=rep1&type=pdf)
 * Guest speaker talk by [Elena Georgieva](elenatheodora.com)
 
