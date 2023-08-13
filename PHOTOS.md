@@ -5,6 +5,12 @@ layout: page
 
 # 2022
 
+<img src="assets/photos/DDSP_2023.JPG" alt="drawing" width="1000"/>
+
+DDSP Instructors: Iran R. Roman & Chuyang Chen
+
+# 2022
+
 <img src="assets/photos/DL4MIR_2022" alt="drawing" width="1000"/>
 
 Instructors: Iran R. Roman & Camille Noufi
