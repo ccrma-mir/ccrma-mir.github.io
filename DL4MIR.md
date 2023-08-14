@@ -9,6 +9,8 @@ layout: page
 
 ## Day 1 (Monday)
 * Clasroom introductions
+* MIRdata
+* Project brainstorm + literature seach
 * Review:
   
   - [Linear algebra](https://cs229.stanford.edu/section/cs229-linalg.pdf) (at least sections 1, 2, and most of 3)
@@ -21,8 +23,15 @@ layout: page
   - [TOTAL VARIATION IN VOCALS OVER TIME](https://ccrma.stanford.edu/~egeorgie/projects/totalvariation.html)
 
 ## Day 2 (Tuesday)
+* Linear and logistic regression
+* Softmax & gradient descent
+* Cross-validation
+* Project planning
+* [Feed forward neural network](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_NN.ipynb)
+* Evaluation metrics
 * Guest speaker talk by [Néstor Nápoles López](https://napulen.github.io/)
 
+  - [Augmentednet: a roman numeral analysis network with synthetic training examples and additional tonal tasks](https://archives.ismir.net/ismir2021/paper/000050.pdf)
 
 ## Day 3 (Wednesday)
 * Guest speaker talk by [Valerio Velardo](https://valeriovelardo.com/):
