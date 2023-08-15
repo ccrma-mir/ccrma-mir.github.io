@@ -17,16 +17,15 @@ layout: page
   - [Chain rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review)
 * Dimensionality reduction with PCA
 * [MIRdata & PCA](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_PCA.ipynb)
-* Reading: [Automatic Identification of Instrument Classes in Polyphonic and Poly-instrument Audio](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.9461&rep=rep1&type=pdf)
 * Guest speaker talk by [Elena Georgieva](elenatheodora.com)
 
   - [TOTAL VARIATION IN VOCALS OVER TIME](https://ccrma.stanford.edu/~egeorgie/projects/totalvariation.html)
 
 ## Day 2 (Tuesday)
+* Reading: [Automatic Identification of Instrument Classes in Polyphonic and Poly-instrument Audio](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.9461&rep=rep1&type=pdf)
 * Linear and logistic regression
 * Softmax & gradient descent
 * Cross-validation
-* Project planning
 * [Feed forward neural network](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_NN.ipynb)
 * Evaluation metrics
 * Guest speaker talk by [Néstor Nápoles López](https://napulen.github.io/)
