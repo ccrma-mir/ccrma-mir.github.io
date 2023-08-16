@@ -26,19 +26,23 @@ layout: page
 * Linear and logistic regression
 * Softmax & gradient descent
 * Cross-validation
-* [Feed forward neural network](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_NN.ipynb)
 * Evaluation metrics
 * Guest speaker talk by [Néstor Nápoles López](https://napulen.github.io/)
 
   - [Augmentednet: a roman numeral analysis network with synthetic training examples and additional tonal tasks](https://archives.ismir.net/ismir2021/paper/000050.pdf)
 
 ## Day 3 (Wednesday)
+* [Feed forward neural network](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_NN.ipynb)
+* Project work
 * Guest speaker talk by [Valerio Velardo](https://valeriovelardo.com/):
 
   - [The Sound of AI accelerator](https://thesoundofai.com/accelerator.html)
 
 
 ## Day 4 (Thursday)
+* Guest speaker talk by Francesca Ronchini
+
+  - [Insights into Soundscape Synthesis and Energy consumption of Sound Event Detection systems](https://arxiv.org/pdf/2210.07856.pdf)
 
 
 ## Day 5 (Friday)
