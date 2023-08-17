@@ -43,6 +43,7 @@ layout: page
 * Probability review
 * Variational autoencoders
 * KL divergence
+* [Encoding variational electric guitar effects](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_VAE.ipynb))
 * Guest speaker talk by Francesca Ronchini
 
   - [Insights into Soundscape Synthesis and Energy consumption of Sound Event Detection systems](https://arxiv.org/pdf/2210.07856.pdf)
