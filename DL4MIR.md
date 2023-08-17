@@ -50,6 +50,13 @@ layout: page
 
 
 ## Day 5 (Friday)
+* CNN
+* GRU
+* Attention
+* Guest speaker talk by [Ellie Abrams](https://steinhardt.nyu.edu/people/ellie-bean-abrams)
+
+  - [Retrieving musical information from neural data: how cognitive features enrich acoustic ones](https://www.ripolleslab.com/uploads/1/2/6/7/126798162/abrams_retrieving_mi_from_neural.pdf)
+
 
 
 ## Day 6 (Monday)
