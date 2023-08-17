@@ -17,7 +17,7 @@ layout: page
   - [Chain rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review)
 * Dimensionality reduction with PCA
 * [MIRdata & PCA](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_PCA.ipynb)
-* Guest speaker talk by [Elena Georgieva](elenatheodora.com)
+* Guest speaker talk by [Elena Georgieva](https://elenatheodora.com)
 
   - [TOTAL VARIATION IN VOCALS OVER TIME](https://ccrma.stanford.edu/~egeorgie/projects/totalvariation.html)
 
@@ -40,6 +40,9 @@ layout: page
 
 
 ## Day 4 (Thursday)
+* Probability review
+* Variational autoencoders
+* KL divergence
 * Guest speaker talk by Francesca Ronchini
 
   - [Insights into Soundscape Synthesis and Energy consumption of Sound Event Detection systems](https://arxiv.org/pdf/2210.07856.pdf)
