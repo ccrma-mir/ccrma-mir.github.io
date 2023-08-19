@@ -64,6 +64,10 @@ layout: page
 * Guest speaker talk by [Daniel Faronbi](https://danielfaronbi.com):
 
   - [Exploring Approaches to Multi-Task Automatic Synthesizer Programming](https://ccrma.stanford.edu/~iran/papers/Faronbi_et_al_ICASSP_2023.pdf)
+* other relevant papers:
+
+  - [Flow Synthesizer: Universal Audio Synthesizer Control with Normalizing Flows](https://www.mdpi.com/2076-3417/10/1/302/pdf)
+  - [DDX7: Differentiable FM Synthesis of Musical Instrument Sounds](https://arxiv.org/pdf/2208.06169)
 
 ## Day 7 (Tuesday)
 * [Contrastive Audio-Language Learning for Music](https://arxiv.org/pdf/2208.12208.pdf)
