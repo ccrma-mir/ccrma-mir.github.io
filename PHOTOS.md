@@ -3,7 +3,7 @@ title: Photos
 layout: page
 ---
 
-# 2022
+# 2023
 
 <img src="assets/photos/DDSP_2023.JPG" alt="drawing" width="1000"/>
 
