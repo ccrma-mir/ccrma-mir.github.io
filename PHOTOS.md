@@ -5,6 +5,11 @@ layout: page
 
 # 2023
 
+<img src="assets/photos/CCRMA_MIR_2023.JPG" alt="drawing" width="1000"/>
+
+<img src="assets/photos/CCRMA_MIR_2023_zoom.JPG" alt="drawing" width="1000"/>
+DL4MIR Instructors: Iran R. Roman & Bea Steers
+
 <img src="assets/photos/DDSP_2023.JPG" alt="drawing" width="1000"/>
 
 DDSP Instructors: Iran R. Roman & Chuyang Chen
