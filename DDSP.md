@@ -1,5 +1,5 @@
 ---
-title: DDSP
+title: DDSP (not offered in 2024. To be updated for 2025)
 layout: page
 ---
 
