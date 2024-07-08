@@ -8,18 +8,15 @@ layout: page
 # Deep Learning for Music Information Retrieval
 
 ## Day 1 (Monday)
-* Clasroom introductions
-* MIRdata
-* Project brainstorm + literature seach
+* Introductions
+* [Python & Pytorch review]()
 * Review:
   
   - [Linear algebra](https://cs229.stanford.edu/section/cs229-linalg.pdf) (at least sections 1, 2, and most of 3)
   - [Chain rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review)
-* Dimensionality reduction with PCA
-* [MIRdata & PCA](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_PCA.ipynb)
-* Guest speaker talk by [Elena Georgieva](https://elenatheodora.com)
+* Guest speaker talk by [Kelvin Walls]()
 
-  - [TOTAL VARIATION IN VOCALS OVER TIME](https://ccrma.stanford.edu/~egeorgie/projects/totalvariation.html)
+  - [Total variation in popular rap vocals from 2009-2023](http://ismir2023program.ismir.net/lbd_338.html)
 
 ## Day 2 (Tuesday)
 * Reading: [Automatic Identification of Instrument Classes in Polyphonic and Poly-instrument Audio](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.9461&rep=rep1&type=pdf)
