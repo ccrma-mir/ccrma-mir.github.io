@@ -1,5 +1,5 @@
 ---
-title: DL4MIR (under construction for 2024)
+title: DL4MIR
 layout: page
 ---
 
@@ -13,7 +13,7 @@ layout: page
 * Review:
   
   - [Linear algebra](https://cs229.stanford.edu/section/cs229-linalg.pdf) (at least sections 1, 2, and most of 3)
-* Guest speaker talk by [Kelvin Walls]()
+* Guest speaker talk by Kelvin Walls
 
   - [Total variation in popular rap vocals from 2009-2023](http://ismir2023program.ismir.net/lbd_338.html)
 
@@ -24,68 +24,56 @@ layout: page
 
 * Softmax, gradient descent, and Feed Forward Neural Networks
 * Building a musical instrument classifier
-* Guest speaker talk by [Brandon Carone]()
+* Guest speaker talk by Brandon Carone
 
-  - SoundSignature: What Type of Music Do You Like?
+  - [SoundSignature: What Type of Music Do You Like?](https://ccrma.stanford.edu/events/soundsignature-what-type-of-music-do-you)
 
 ## Day 3 (Wednesday)
-* [Feed forward neural network](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_NN.ipynb)
-* Project work
-* Guest speaker talk by [Valerio Velardo](https://valeriovelardo.com/):
+* Convolutional Reverberation
+* CNNs
+* Variational Autoencoders
+* Music tone generation with a pitch-conditioned VAE
+* Guest speaker talk by [Charis Cochran]()
 
-  - [The Sound of AI accelerator](https://thesoundofai.com/accelerator.html)
+  - [Exploring Contextual Timbre Representation](https://ccrma.stanford.edu/events/exploring-contextual-timbre-representation) 
 
 
 ## Day 4 (Thursday)
-* Probability review
-* Variational autoencoders
-* KL divergence
-* [Encoding variational electric guitar effects](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_VAE.ipynb)
-* Guest speaker talk by Francesca Ronchini
+* TDB
+* Guest speaker talk by [Richa Namballa](https://richa-namballa.github.io)
 
-  - [Insights into Soundscape Synthesis and Energy consumption of Sound Event Detection systems](https://arxiv.org/pdf/2210.07856.pdf)
+  - [Investigating Bell Patterns in Candomblé from Historical Field Recordings](https://ccrma.stanford.edu/events/investigating-bell-patterns-in-candombl-historical-field-recordings)
 
 
 ## Day 5 (Friday)
-* CNN
-* GRU
-* Attention
-* Guest speaker talk by [Ellie Abrams](https://steinhardt.nyu.edu/people/ellie-bean-abrams)
+* TDB
+* Guest speaker talk by [Hegel Pedroza](https://hepedroza.com)
 
-  - [Retrieving musical information from neural data: how cognitive features enrich acoustic ones](https://www.ripolleslab.com/uploads/1/2/6/7/126798162/abrams_retrieving_mi_from_neural.pdf)
-
-
+  - [Leveraging Electric Guitar Tones and Effects to Improve Robustness in Guitar Tablature Transcription Modeling](https://ccrma.stanford.edu/events/leveraging-electric-guitar-tones-and-effects-improve-robustness-in-guitar-tablature-transcrip)
 
 ## Day 6 (Monday)
-* [RAVE](https://arxiv.org/pdf/2111.05011.pdf)
-* Guest speaker talk by [Daniel Faronbi](https://danielfaronbi.com):
+* TDB
+* Guest speaker talk by [Saksham Singh](https://sakshamsingh1.github.io)
 
-  - [Exploring Approaches to Multi-Task Automatic Synthesizer Programming](https://ccrma.stanford.edu/~iran/papers/Faronbi_et_al_ICASSP_2023.pdf)
-* other relevant papers:
-
-  - [Flow Synthesizer: Universal Audio Synthesizer Control with Normalizing Flows](https://www.mdpi.com/2076-3417/10/1/302/pdf)
-  - [DDX7: Differentiable FM Synthesis of Musical Instrument Sounds](https://arxiv.org/pdf/2208.06169)
+  - [Dataset distillation for audio-visual tasks](https://ccrma.stanford.edu/events/dataset-distillation-audio-visual-tasks)
 
 ## Day 7 (Tuesday)
-* [Contrastive Audio-Language Learning for Music](https://arxiv.org/pdf/2208.12208.pdf)
-* [Wav2CLIP](https://arxiv.org/pdf/2110.11499.pdf)
-* [CLIPcap](https://arxiv.org/pdf/2111.09734.pdf)
+* TDB
+* Guest speaker talk by Francesca Ronchini
+
+  - [Text-to-Audio GenAI: Opportunities and Challenges in Music Production and Audio Content Generation](https://ccrma.stanford.edu/events/text-audio-genai-opportunities-and-challenges-in-music-production-and-audio-content-generatio)
 
 ## Day 8 (Wednesday)
-* [Sound of Pixels](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hang_Zhao_The_Sound_of_ECCV_2018_paper.pdf)
-* [How to Listen? Rethinking Visual Sound Localization](https://arxiv.org/pdf/2204.05156.pdf)
-* [Flowgrad](https://ieeexplore.ieee.org/iel7/10094559/10094560/10094965.pdf)
-* Guest speaker talk by [Adrian S. Roman](https://adriansroman.github.io/adriansroman/):
+* TDB
+* Guest speaker talk by Klavdia Zemlianova
 
-  - []()
+  - [Dynamical mechanisms of how an RNN keeps a beat, uncovered with a low-dimensional reduced model](https://ccrma.stanford.edu/events/dynamical-mechanisms-of-how-rnn-keeps-beat-uncovered-with-low-dimensional-reduced-model)
 
 ## Day 9 (Thursday)
-*
-*
+* TDB
+* Guest speaker talk by [Changan Chen](https://changan.io)
+
+  - [4D Audio-Visual Learning: A Visual Perspective of Sound Propagation and Production](https://ccrma.stanford.edu/events/4d-audio-visual-learning-visual-perspective-of-sound-propagation-and-production)
 
 ## Day 10 (Friday)
-* Guest speaker talk by [Giovana Morais](https://giovana-morais.github.io):
-
-  - [Tempo vs. Pitch: Understanding Self-supervised Tempo Estimation](https://ieeexplore.ieee.org/iel7/10094559/10094560/10095292.pdf)
-<br/><br/>
 * Workshop participant final presentations
