@@ -9,24 +9,24 @@ layout: page
 
 ## Day 1 (Monday)
 * Introductions
-* [Python & Pytorch review]()
+* Python & Pytorch review
 * Review:
   
   - [Linear algebra](https://cs229.stanford.edu/section/cs229-linalg.pdf) (at least sections 1, 2, and most of 3)
-  - [Chain rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review)
 * Guest speaker talk by [Kelvin Walls]()
 
   - [Total variation in popular rap vocals from 2009-2023](http://ismir2023program.ismir.net/lbd_338.html)
 
 ## Day 2 (Tuesday)
-* Reading: [Automatic Identification of Instrument Classes in Polyphonic and Poly-instrument Audio](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.9461&rep=rep1&type=pdf)
-* Linear and logistic regression
-* Softmax & gradient descent
-* Cross-validation
-* Evaluation metrics
-* Guest speaker talk by [Néstor Nápoles López](https://napulen.github.io/)
+* Reading: [Automatic Identification of Instrument Classes in Polyphonic and Poly-instrument Audio](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=46a25031abceb16ce899b41c713b140ed5e6a4f2)
+* Differential calculus review
+  - [Chain rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review)
 
-  - [Augmentednet: a roman numeral analysis network with synthetic training examples and additional tonal tasks](https://archives.ismir.net/ismir2021/paper/000050.pdf)
+* Softmax, gradient descent, and Feed Forward Neural Networks
+* Building a musical instrument classifier
+* Guest speaker talk by [Brandon Carone]()
+
+  - SoundSignature: What Type of Music Do You Like?
 
 ## Day 3 (Wednesday)
 * [Feed forward neural network](https://githubtocolab.com/ccrma-mir/course-materials/blob/main/EGFxSet_NN.ipynb)
